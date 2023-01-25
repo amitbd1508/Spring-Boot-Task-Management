@@ -1,4 +1,4 @@
-# didactic-journey [Task manager REST API]
+Task manager REST API
 
 ## Technology Used
 - Java 11
